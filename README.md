@@ -24,5 +24,5 @@ or in other words everthing north of the fipple hole, probably don't have a majo
 The generated G-Code will result in the design seen in the very first picture of the readme, which is most of the battle but requires hand finishing to carve the fipple track and fipple itself, calibrate the finger holes, etc.  More detailed instructions are in the 'notes' section of the Processing sketch.
 
 Fipple close up:
-![fipple](https://github.com/user-attachments/assets/63fd059c-9d84-4fd8-8161-2ee90415760b)
 
+![fipple](https://github.com/user-attachments/assets/b02c4bc4-19d8-43ba-81bb-9a2398995eff)
