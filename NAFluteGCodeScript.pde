@@ -24,19 +24,19 @@
 - Finishing the flute
     
     The machine will do almost everything, but some hand work needs to be done to finish it up.
-    For the first 2 steps, leave the 2 halves connected with the tabs, because for milling the flue you'll likely want to strap it back onto the cnc table.
+    For the first 2 steps, leave the 2 halves connected with the tabs, because for milling the flat air channel you'll likely want to strap it back onto the cnc table.
     
-    1) Drilling the ramp.  This is an angled tunnel that connects the slow air chamber to the flue.  The topmost hole on the flute is placed so that you can take a hand drill
-       and **FROM THE OUTSIDE** drill down into the slow air chamber at an angle.  This angle is probably about 20 30 degrees off of straight down; see fluetopedia for a side view diagram if needed.
-       It needn't be anything super exact, just angled to help guide the air up into the flue.  To avoid blowout, start with a 1/8" bit and work up to 1/4".  A stepper bit can help.
-       Drilling from outside in is crucial because you need the 2 outside holes to be perfectly in line for milling the flue.
-    2) Milling the flue.  This can be done completely by hand, but I think the easiest way is to flip the workpiece and bolt it back onto the table, being careful to line up the 2 top air holes
+    1) Drilling the ramp.  This is an angled tunnel that connects the slow air chamber to the flat air channel.  The topmost hole on the flute is placed so that you can take a hand drill
+       and **FROM THE OUTSIDE** drill down into the slow air chamber at an angle.  This angle is probably about 20 30 degrees off of straight down; see flutopedia for a side view diagram if needed.
+       It needn't be anything super exact, just angled to help guide the air up into the flat air channel.  To avoid blowout, start with a 1/8" bit and work up to 1/4".  A stepper bit can help.
+       Drilling from outside in is crucial because you need the 2 outside holes to be perfectly in line for milling the flat air channel.
+    2) Milling the flat air channel.  This can be done completely by hand, but I think the easiest way is to flip the workpiece and bolt it back onto the table, being careful to line up the 2 top air holes
        to be perfectly in line with the X axis of the machine.  Now simply jog the bit around between the 2 holes to create a flat 1/4" wide track about 1mm deep connecting them.
-    3) Squaring the flue holes.  At this point the 2 halves can be separated if you want.  Use a 1/4" metal file to make each of the 2 round flue holes square.  Flue
-       should now be 2 1/4"x1/4" square holes conntected by a 1mm deep 1/4" track.
+    3) Squaring the flat air channel holes.  At this point the 2 halves can be separated if you want.  Use a 1/4" metal file to make each of the 2 round  holes square.  
+       You should now have 2 1/4"x1/4" square holes conntected by a 1mm deep 1/4" track.
     4) File the splitting edge.  Very simple but difficult to explain in text, see pictures on github or flutopedia.com. 
     5) Glue 2 halves together.
-    6) Make a 'bird' to tie onto the flue track.  Can be a simple block of wood, though it traditionally is a carving.  This forms the ceiling of the flue to aim a ribbon of air at the splitting edge.
+    6) Make a 'bird' to tie onto the flat air channel track.  Can be a simple block of wood, though it traditionally is a carving.  This forms the ceiling of the flat air channel to aim a ribbon of air at the splitting edge.
        Experiment with position as this will impact the quality and intonation of the sound.
     7) Fine tune holes for best possible intonation.  This is a craft which is best learned via resources like https://flutecraft.org/how-to-tune-native-american-flute-part-3/174
        That being said, the flute should be playable as is, if not a bit wiley.
