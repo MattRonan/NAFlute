@@ -1,4 +1,4 @@
-# NAFlute
+# NAFlute Generator
 
 ![fluteRender](https://github.com/user-attachments/assets/8837680b-3b3e-4e47-847d-31aa2fe8afaa)
 
