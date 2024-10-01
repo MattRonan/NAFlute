@@ -19,7 +19,7 @@ into the flat air channel and passing across a hole called the fipple.  [This](h
 fipple shape.  Sound is then produced in the sound chamber and modified by covering or opening the 6 finger holes.
 
   The Processing sketch allows you to dictate all the required paramters to create a flute in the key of your choosing.  Finger hole placements, internal bore, and resonating chamber length are the main values involved in customizing the pitch.  Parameters associated with the SAC, breath hole, fipple placement,
-or in other words everthing north of the fipple hole, probably don't have a major impact on the sound from my experiences.
+or in other words everything north of the fipple hole, probably don't have a major impact on the sound from my experiences.
 
 The generated G-Code will result in the design seen in the very first picture of the readme, which is most of the battle but requires hand finishing to carve the flat air channel and fipple itself, calibrate the finger holes, etc.  More detailed instructions are in the 'notes' section of the Processing sketch.
 
