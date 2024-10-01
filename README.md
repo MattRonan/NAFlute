@@ -3,14 +3,14 @@
 ![fluteRender](https://github.com/user-attachments/assets/8837680b-3b3e-4e47-847d-31aa2fe8afaa)
 
 Native American (NAF) flutes are one of the easiest and nicest sounding instruments to play.
-This customizeable Processing sketch generates the G-Code for routing a NAF flute with a base note of C#4:
+This customizable Processing sketch generates the G-Code for routing a NAF flute with a base note of C#4:
 
 ![G-Code visualization](https://github.com/user-attachments/assets/b3ea667f-1951-42ed-960f-1ad3df38e057)
 
 
-NAF flute design is generally very acessible, but deep.  For a more in-depth discussion check out places like 
+NAF flute design is generally very accessible, but deep.  For a more in-depth discussion check out places like 
 [flutopedia](https://www.flutopedia.com/anatomy.html) or other such sources.
-I'll swipe just this one diagram from them for the sake of establishing some basic terminology:
+For the sake of establishing some basic terminology, here's a diagram from Flutopedia:
 
 ![FPanatomy_partsIN_RGB_080dpi_dswhite_c00s00](https://github.com/user-attachments/assets/e83d5a12-573f-4752-aab6-52c4c656f408)
 
